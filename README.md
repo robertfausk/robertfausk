@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<div align="left">
+<div align="top">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=robertfausk&show_icons=true&locale=en" alt="robertfausk" />
 </div>
-  <div align="left">
+  <div align="top">
   <p>
-    <img align="" src="https://komarev.com/ghpvc/?username=robertfausk&label=Profile%20views&color=0e75b6&style=flat" alt="robertfausk" />
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertfausk&show_icons=true&locale=en&layout=compact" alt="robertfausk" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertfausk&show_icons=true&locale=en&layout=compact" alt="robertfausk" />
+    <img align="top" src="https://komarev.com/ghpvc/?username=robertfausk&label=Profile%20views&color=0e75b6&style=flat" alt="robertfausk" />
   </p>
 </div>
 
