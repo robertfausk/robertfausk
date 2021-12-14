@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-<p>
+<div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=robertfausk&show_icons=true&locale=en" alt="robertfausk" />
-  <img align="right" src="https://komarev.com/ghpvc/?username=robertfausk&label=Profile%20views&color=0e75b6&style=flat" alt="robertfausk" />  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertfausk&show_icons=true&locale=en&layout=compact" alt="robertfausk" />
-</p>
-  
-  
+</div>
+  <div align="left">
+  <p>
+    <img align="" src="https://komarev.com/ghpvc/?username=robertfausk&label=Profile%20views&color=0e75b6&style=flat" alt="robertfausk" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertfausk&show_icons=true&locale=en&layout=compact" alt="robertfausk" />
+  </p>
+</div>
+
+    
 
 <!--
 **robertfausk/robertfausk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
